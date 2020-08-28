@@ -1,0 +1,13 @@
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.deps.json
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.pdb
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.DataLayer.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.DataLayer.pdb
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.pdb
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.csprojAssemblyReference.cache
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.AssemblyInfoInputs.cache
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.AssemblyInfo.cs
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.csproj.CopyComplete
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.BusinessLayer\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.BusinessLayer.pdb

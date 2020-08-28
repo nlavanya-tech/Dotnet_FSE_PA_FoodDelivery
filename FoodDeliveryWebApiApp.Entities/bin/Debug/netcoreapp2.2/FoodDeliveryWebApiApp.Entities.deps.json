@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "FoodDeliveryWebApiApp.Entities/1.0.0": {
+        "dependencies": {
+          "MongoDB.Bson": "2.11.1"
+        },
+        "runtime": {
+          "FoodDeliveryWebApiApp.Entities.dll": {}
+        }
+      },
+      "MongoDB.Bson/2.11.1": {
+        "runtime": {
+          "lib/netstandard2.0/MongoDB.Bson.dll": {
+            "assemblyVersion": "2.11.1.0",
+            "fileVersion": "2.11.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodDeliveryWebApiApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Bson/2.11.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HlSksNZHP71lPJmVPwZwDheN85GYzQDecq/hLr6ARFcnmoz2WR2Tdk3vcfCNEaXIQnkpE5ai0nTOJ/206mOTrQ==",
+      "path": "mongodb.bson/2.11.1",
+      "hashPath": "mongodb.bson.2.11.1.nupkg.sha512"
+    }
+  }
+}

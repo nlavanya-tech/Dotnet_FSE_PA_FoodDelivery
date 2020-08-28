@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FoodDeliveryWebApiApp.DataLayer\FoodDeliveryWebApiApp.DataLayer.csproj" />
+    <ProjectReference Include="..\FoodDeliveryWebApiApp.Entities\FoodDeliveryWebApiApp.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

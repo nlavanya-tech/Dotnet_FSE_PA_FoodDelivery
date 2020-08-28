@@ -1,0 +1,7 @@
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.deps.json
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\bin\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.pdb
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.AssemblyInfoInputs.cache
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.AssemblyInfo.cs
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.dll
+I:\IIHT\FoodDeliveryApp\project\Dotnet_FSE_PA_FoodDelivery\FoodDeliveryWebApiApp.Entities\obj\Debug\netcoreapp2.2\FoodDeliveryWebApiApp.Entities.pdb
